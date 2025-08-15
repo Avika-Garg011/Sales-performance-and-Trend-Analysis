@@ -45,8 +45,8 @@ The dataset contains transactional sales data and includes:<br>
 ⦁	Forecasting suggests steady sales growth in upcoming months.<br>
 
 ## 🧰 Technologies Used
-✔ **Power BI ** – Data visualization and dashboard creation<br>
-✔ ** DAX (Data Analysis Expressions) ** – Time intelligence (YOY, LY, growth %) & calculated measures<br>
+✔ Power BI – Data visualization and dashboard creation<br>
+✔ DAX (Data Analysis Expressions) – Time intelligence (YOY, LY, growth %) & calculated measures<br>
 
 ## 📍 Conclusion
 This project showcases the power of time intelligence in Power BI for creating dynamic, insight-driven dashboards. The analysis enables stakeholders to monitor performance, identify trends, and forecast future growth with precision.
